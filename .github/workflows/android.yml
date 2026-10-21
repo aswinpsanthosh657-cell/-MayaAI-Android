@@ -35,3 +35,4 @@ jobs:
           name: Maya-AI-APK
           path: '**/build/outputs/apk/debug/*.apk'
           
+  
